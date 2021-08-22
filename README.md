@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <img src="https://media4.giphy.com/media/4ZbBAwUVv9xyo2X2n6/giphy.gif?cid=ecf05e47n2gw5nss7hff3btdbbcykxyjkvzxdoqtetkajzd6&rid=giphy.gif&ct=s" width="50px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <img src="https://media3.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif?cid=ecf05e47o1ene8yjspfu9bqla0ypv0mxnj8iz03wejdbz862&rid=giphy.gif&ct=g" width="60px">
 
 - 🔭 I’m currently working on development using the MERN Stack 
 - 🌱 I’m currently learning DSA and SPFx developement
