@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with problem solving and competitive programming
 - 💬 Ask me about anything because I love talking about everything under the Sun. 
 - 📫 Reach me here: <a rel="me" href="https://www.linkedin.com/in/sumitchakrabartiofficial/">LinkedIn</a>
-- ⚡ Fun fact: I take pride in being an autodidact. I play the guitar and love quizzing and debating! 
+- ⚡ Fun fact: I regularly find myself reading random articles on Wikipedia for fun. I play the guitar and love quizzing and debating! 
 
 
